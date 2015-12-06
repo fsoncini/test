@@ -1,3 +1,6 @@
 PRacting GIT
 
-A good day to learn git. 
+A good day to learn git.
+
+
+About time I learn git from the command line!!!!!!!
