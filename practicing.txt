@@ -4,3 +4,6 @@ A good day to learn git.
 
 
 About time I learn git from the command line!!!!!!!
+
+
+Remember to read that Paris Review article about Gordon Lish.
