@@ -8,3 +8,6 @@ Remember to read that Paris Review article about Gordon Lish.
 
 Buy the London Review of Books too, this month.
 
+Morning, it's Monday and it's time to see if we still remember BASIC GIT STUFF, do we? 
+
+And a little more because I UNSTAGED SOMETHING, using git unstage HEAD <file>. So let's see what happens.
